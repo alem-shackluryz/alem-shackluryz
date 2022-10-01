@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, you can call me Alem. 👋
+I'm a 3D game developer with a focus on metaverse, complex mechanics, implementation of non-fungible token contracts and artificial intelligence.
 
 <!--
 **alem-shackluryz/alem-shackluryz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
